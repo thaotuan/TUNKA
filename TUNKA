@@ -245,4 +245,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiH
     Callback = function()
 	  loadstring(game:HttpGet('https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua'))()
   end
-})  
+})  AddButton(Tab1o, {
+     Name = "RISE HUB",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))();
+  end
+}) 
