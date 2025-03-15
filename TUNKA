@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "TUNKA VN",
-         Animation = "Script Premium"
+         Animation = "Script con cặc"
          },
         Key = {
         KeySystem = false,
@@ -255,4 +255,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiH
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TBoyRoblox727/TBoyRobloxYTB/refs/heads/main/Mainfram.lua"))()
   end
-}) 
+})  AddButton(Tab1o, {
+     Name = "RUBU MARU HUB",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/MaruHub.lua"))()
+  end
+})  
+
