@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "TUNKAMEME VN",
-         Animation = "Script tổng hợp"
+         Title = "TUNKA VN",
+         Animation = "Script Premium"
          },
         Key = {
         KeySystem = false,
@@ -248,6 +248,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiH
 })  AddButton(Tab1o, {
      Name = "RISE HUB",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))();
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))()
+  end
+})  AddButton(Tab1o, {
+     Name = "TBOYROBLOX HUB",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TBoyRoblox727/TBoyRobloxYTB/refs/heads/main/Mainfram.lua"))()
   end
 }) 
