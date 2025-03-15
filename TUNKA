@@ -211,9 +211,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiH
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/pisovn/OisiRoblox1/refs/heads/main/AutoBountyXero"))()
   end
 })  AddButton(Tab1o, {
-     Name = "MIN HOP BOS",
+     Name = "TEDDY HOP",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinHopBoss"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/Teddy-Premium"))()
   end
 })  AddButton(Tab1o, {
      Name = "MIN HOP SWORD",
