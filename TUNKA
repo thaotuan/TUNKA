@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "TUNKAMEME",
-         Animation = "TUNKA"
+         Animation = "Script tổng hợp"
          },
         Key = {
         KeySystem = false,
@@ -222,7 +222,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 })  AddButton(Tab1o, {
      Name = "VXEZE HUB",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/VxezeHubMain"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/Skidlamcho.txt"))()
   end
 })  AddButton(Tab1o, {
      Name = "HIRU HUB",
@@ -238,11 +238,6 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
      Name = "ĐỒ HOẠ",
     Callback = function()
 	  loadstring(game:HttpGet('https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua'))()
-  end
-})  AddButton(Tab1o, {
-     Name = "RISE HUB",
-    Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))()
   end
 })  AddButton(Tab1o, {
      Name = "TBOYROBLOX HUB",
