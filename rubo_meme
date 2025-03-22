@@ -182,7 +182,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 })  AddButton(Tab1o, {
      Name = "FRAM FUIRT",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/thaotuan/Findfruit-/refs/heads/main/Findfruit"))() 
+          loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhTuanDzai-Hub/AutoFruitDepzai/refs/heads/main/AutoDepzai.Lua"))()
 
   end
 })  AddButton(Tab1o, {
@@ -206,14 +206,9 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/pisovn/OisiRoblox1/refs/heads/main/AutoBountyXero"))()
   end
 })  AddButton(Tab1o, {
-     Name = "TEDDY HOP",
+     Name = "ZIS HOP",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/Teddy-Premium"))()
-  end
-})  AddButton(Tab1o, {
-     Name = "MIN HOP SWORD",
-    Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinHopSword"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisRobloxHop"))()
   end
 })  AddButton(Tab1o, {
      Name = "MONSTER HUB",
