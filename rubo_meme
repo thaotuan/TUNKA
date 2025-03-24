@@ -226,9 +226,9 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/Dev-Hiru/refs/heads/main/HiruHub.lua"))()
   end
 })  AddButton(Tab1o, {
-     Name = "ADZ-DRACO HUB",
+     Name = "XETER HUB",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/FastDraco.lua.AnBeo"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Loader/main/Xeter.lua"))()
   end
 })  AddButton(Tab1o, {
      Name = "ĐỒ HOẠ",
